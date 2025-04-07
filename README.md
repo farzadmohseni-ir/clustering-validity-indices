@@ -33,7 +33,7 @@ The report explains **5 popular clustering validity metrics**, covering:
 - Its advantages and limitations
 - Example formulas and interpretation range
 
-📄 [Click here to view the full report (PDF)](clustering%20validity%20index_Farzad%20Mohseni.pdf)
+📄 [Click here to view the full report (PDF)](https://github.com/farzadmohseni-ir/clustering-validity-indices/blob/main/clustering%20validity%20index.pdf)
 
 ---
 
